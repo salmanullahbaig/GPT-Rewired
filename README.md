@@ -1,59 +1,7 @@
 
-<div align="center">
-  <a href="https://github.com/Zai-Kun/reverse-engineered-chatgpt">  </a>
 
-<h1 align="center">Reverse Engineered <a href="https://openai.com/blog/chatgpt">ChatGPT</a> API</h1>
 
-  <p align="center">
-    Use OpenAI ChatGPT in your Python code without an API key
 
-[![Stargazers][stars-badge]][stars-url]
-[![Forks][forks-badge]][forks-url]
-[![Discussions][discussions-badge]][discussions-url]
-[![Issues][issues-badge]][issues-url]
-[![MIT License][license-badge]][license-url]
-
-  </p>
-    <p align="center">
-    <a href="https://github.com/Zai-Kun/reverse-engineered-chatgpt"></a>
-    <a href="https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues">Report Bug</a>
-    |
-    <a href="https://github.com/Zai-Kun/reverse-engineered-chatgpt/discussions">Request Feature</a>
-  </p>
-</div>
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#inspiration">Inspiration</a></li>
-        <li><a href="#how-it-works">How it works</a></li>
-        <li><a href="#built-using">Built using</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-        <li><a href="#obtaining-session-token">Obtaining Session Token</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a>
-        <ul>
-        <li><a href="#basic-example">Example Usage</a></li>
-        </ul>
-    </li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
 
 ## About The Project
 
@@ -170,41 +118,3 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-Distributed under the Apache License 2.0. See [`LICENSE`](https://github.com/Zai-Kun/reverse-engineered-chatgpt/blob/main/LICENSE
-) for more information.
-
-## Contact/Bug report
-
-Zai-Kun - [Discord Server](https://discord.gg/ymcqxudVJG)
-
-Repo Link: <https://github.com/Zai-Kun/reverse-engineered-chatgpt>
-
-## Acknowledgments
-
-* [sudoAlphaX](https://github.com/sudoAlphaX)
-
-* [yifeikong (curl-cffi module)](https://github.com/yifeikong/curl_cffi)
-
-* [acheong08 (implementation to obtain arkose_token)](https://github.com/acheong08/funcaptcha)
-
-* [pyca (cryptography module)](https://github.com/pyca/cryptography/)
-
-* [Legrandin (pycryptodome module)](https://github.com/Legrandin/pycryptodome/)
-
-* [othneildrew (README Template)](https://github.com/othneildrew)
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[forks-badge]: https://img.shields.io/github/forks/Zai-Kun/reverse-engineered-chatgpt
-[forks-url]: https://github.com/Zai-Kun/reverse-engineered-chatgpt/network/members
-[stars-badge]: https://img.shields.io/github/stars/Zai-Kun/reverse-engineered-chatgpt
-[stars-url]: https://github.com/Zai-Kun/reverse-engineered-chatgpt/stargazers
-[issues-badge]: https://img.shields.io/github/issues/Zai-Kun/reverse-engineered-chatgpt
-[issues-url]: https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues
-[discussions-badge]: https://img.shields.io/github/discussions/Zai-Kun/reverse-engineered-chatgpt
-[discussions-url]: https://github.com/Zai-Kun/reverse-engineered-chatgpt/discussions
-[python-badge]: https://img.shields.io/badge/Python-blue?logo=python&logoColor=yellow
-[python-url]: https://www.python.org/
-[license-badge]: https://img.shields.io/github/license/Zai-Kun/reverse-engineered-chatgpt
-[license-url]: https://github.com/Zai-Kun/reverse-engineered-chatgpt/blob/main/LICENSE
