@@ -17,9 +17,6 @@ ChatGPT has an official API which can be used to interface your Python code to i
 
 [ChatGPT](https://chat.openai.com/) web interface's requests have been reverse engineered, and directly integrated into Python requests. Hence, any requests made using this script is a simulated as a request made by a user directly on the website. Hence, it is free and needs no API key.
 
-### Built Using
-
-* [![Python][python-badge]][python-url]
 
 ## Getting Started
 
